@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Week15OOPandFiles\Week15OOPandFiles\obj\Debug\net8.0\Week15OOPandFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Week15OOPandFiles\Week15OOPandFiles\obj\Debug\net8.0\Week15OOPandFiles.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Week15OOPandFiles\Week15OOPandFiles\obj\Debug\net8.0\Week15OOPandFiles.AssemblyInfo.cs
+C:\Users\User\source\repos\Week15OOPandFiles\Week15OOPandFiles\obj\Debug\net8.0\Week15OOPandFiles.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Week15OOPandFiles\Week15OOPandFiles\bin\Debug\net8.0\Week15OOPandFiles.exe
+C:\Users\User\source\repos\Week15OOPandFiles\Week15OOPandFiles\bin\Debug\net8.0\Week15OOPandFiles.deps.json
+C:\Users\User\source\repos\Week15OOPandFiles\Week15OOPandFiles\bin\Debug\net8.0\Week15OOPandFiles.runtimeconfig.json
+C:\Users\User\source\repos\Week15OOPandFiles\Week15OOPandFiles\bin\Debug\net8.0\Week15OOPandFiles.dll
+C:\Users\User\source\repos\Week15OOPandFiles\Week15OOPandFiles\bin\Debug\net8.0\Week15OOPandFiles.pdb
+C:\Users\User\source\repos\Week15OOPandFiles\Week15OOPandFiles\obj\Debug\net8.0\Week15OOPandFiles.dll
+C:\Users\User\source\repos\Week15OOPandFiles\Week15OOPandFiles\obj\Debug\net8.0\refint\Week15OOPandFiles.dll
+C:\Users\User\source\repos\Week15OOPandFiles\Week15OOPandFiles\obj\Debug\net8.0\Week15OOPandFiles.pdb
+C:\Users\User\source\repos\Week15OOPandFiles\Week15OOPandFiles\obj\Debug\net8.0\Week15OOPandFiles.genruntimeconfig.cache
+C:\Users\User\source\repos\Week15OOPandFiles\Week15OOPandFiles\obj\Debug\net8.0\ref\Week15OOPandFiles.dll
